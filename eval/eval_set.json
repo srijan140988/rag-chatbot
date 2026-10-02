@@ -1,0 +1,14 @@
+[
+  {"question": "How many days of paid annual leave do full-time employees get?", "answerable": true, "expected_source": "handbook.txt", "expected_substring": "24 days", "answer_contains": "24"},
+  {"question": "How many sick days are provided per year?", "answerable": true, "expected_source": "handbook.txt", "expected_substring": "10 paid days", "answer_contains": "10"},
+  {"question": "How much is the home-office stipend?", "answerable": true, "expected_source": "handbook.txt", "expected_substring": "15000", "answer_contains": "15000"},
+  {"question": "Within how many days must receipts be submitted?", "answerable": true, "expected_source": "handbook.txt", "expected_substring": "30 days", "answer_contains": "30"},
+  {"question": "How often do passwords need to be rotated?", "answerable": true, "expected_source": "handbook.txt", "expected_substring": "90 days", "answer_contains": "90"},
+  {"question": "How much does the AeroDesk Standing Desk cost?", "answerable": true, "expected_source": "products.csv", "expected_substring": "AeroDesk", "answer_contains": "24999"},
+  {"question": "What is the price of the ViewMax 27 Monitor?", "answerable": true, "expected_source": "products.csv", "expected_substring": "ViewMax", "answer_contains": "18999"},
+  {"question": "Who won the 2018 FIFA World Cup?", "answerable": false},
+  {"question": "What is the capital of Australia?", "answerable": false},
+  {"question": "What is the company's parental leave policy?", "answerable": false},
+  {"question": "What is the CEO's salary?", "answerable": false},
+  {"question": "Does the SoundPod Mini support Bluetooth 6?", "answerable": false}
+]

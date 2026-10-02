@@ -1,0 +1,13 @@
+Northwind Labs Employee Handbook
+
+1. Leave Policy
+Full-time employees receive 24 days of paid annual leave per calendar year. Unused leave of up to 5 days can be carried forward to the next year. Sick leave is separate and provides 10 paid days per year.
+
+2. Remote Work
+Employees may work remotely up to three days per week. Core collaboration hours are 11:00 to 15:00 IST. Remote workers receive a one-time home-office stipend of 15000 INR.
+
+3. Expense Reimbursement
+Expenses under 5000 INR can be approved by a direct manager. Expenses above 5000 INR require finance approval. Receipts must be submitted within 30 days of the expense.
+
+4. Security
+All laptops must use full-disk encryption. Passwords must be rotated every 90 days. Report suspected phishing to security@northwind.example within one hour.
